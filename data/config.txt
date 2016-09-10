@@ -1,0 +1,4 @@
+C:\Users\fltol\workspace\IntensityCalc\data\black.png 
+C:\Users\fltol\workspace\IntensityCalc\data\white.png 
+C:\Users\fltol\workspace\IntensityCalc\data\1.jpg
+C:\Users\fltol\workspace\IntensityCalc\data\2.jpg
